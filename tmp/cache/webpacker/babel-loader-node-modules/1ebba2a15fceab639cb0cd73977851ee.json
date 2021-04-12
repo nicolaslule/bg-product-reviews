@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { remCalc } from '../helpers';\nexport var createLineHeight = function createLineHeight() {\n  return {\n    small: remCalc(20),\n    medium: remCalc(24),\n    large: remCalc(28),\n    xLarge: remCalc(32),\n    xxLarge: remCalc(40),\n    xxxLarge: remCalc(48)\n  };\n};","map":null,"metadata":{},"sourceType":"module"}

@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { useUID } from 'react-uid';\nexport function useUniqueId(prefix) {\n  var uid = useUID();\n  return \"bd-\".concat(prefix, \"-\").concat(uid);\n}","map":null,"metadata":{},"sourceType":"module"}

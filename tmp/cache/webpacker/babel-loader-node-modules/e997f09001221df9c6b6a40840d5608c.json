@@ -1,0 +1,1 @@
+{"ast":null,"code":"var counter = 0; // TODO: Remove once all components use useUniqueId:\n\nexport function uniqueId(prefix) {\n  counter += 1;\n  var id = counter;\n  return prefix + id;\n}","map":null,"metadata":{},"sourceType":"module"}

@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { useEffect, useLayoutEffect } from 'react';\nimport { isClient } from '../utils';\nexport var useIsomorphicLayoutEffect = isClient ? useLayoutEffect : useEffect;","map":null,"metadata":{},"sourceType":"module"}

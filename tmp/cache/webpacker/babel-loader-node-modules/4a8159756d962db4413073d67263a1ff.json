@@ -1,0 +1,1 @@
+{"ast":null,"code":"export var zIndex = {\n  sticky: 1020,\n  fixed: 1030,\n  modalBackdrop: 1040,\n  modal: 1050,\n  popover: 1060,\n  tooltip: 1070\n};","map":null,"metadata":{},"sourceType":"module"}

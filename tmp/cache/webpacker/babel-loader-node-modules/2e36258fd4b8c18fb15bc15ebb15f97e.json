@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { useEffect, useRef } from 'react';\nexport var useDidUpdate = function useDidUpdate(effect) {\n  var isInitialRender = useRef(true);\n  useEffect(function () {\n    if (isInitialRender.current) {\n      isInitialRender.current = false;\n    } else {\n      effect();\n    }\n  }, [effect]);\n};","map":null,"metadata":{},"sourceType":"module"}

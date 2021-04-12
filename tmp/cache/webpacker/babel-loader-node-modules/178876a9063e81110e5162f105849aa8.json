@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { memo } from 'react'; // https://github.com/DefinitelyTyped/DefinitelyTyped/issues/37087\n\nexport var typedMemo = memo;","map":null,"metadata":{},"sourceType":"module"}

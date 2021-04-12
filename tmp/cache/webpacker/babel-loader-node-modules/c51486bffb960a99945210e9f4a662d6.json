@@ -1,0 +1,1 @@
+{"ast":null,"code":"export { createLocalizationProvider, getTimeIntervals } from './localizationProvider';","map":null,"metadata":{},"sourceType":"module"}
