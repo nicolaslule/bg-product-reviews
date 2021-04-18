@@ -1,7 +1,7 @@
 APP_NAME: "BigCommerce App"
 BC_CLIENT_SECRET: "SECRET"
 BC_CLIENT_ID: ‘BC_CLIENT_ID’
-APP_URL: "https://bc-product-review.herokuapp.com"
+APP_URL: "bc-product-review.herokuapp.com"
 
 
 
