@@ -1,8 +1,9 @@
-APP_NAME: "BigCommerce App"
-BC_CLIENT_SECRET: "SECRET"
-BC_CLIENT_ID: ‘BC_CLIENT_ID’
+APP_NAME: "Product Reviews API"
+BC_CLIENT_SECRET: "a0039f281f4b2862cea734a30ca7ca199adb7dc4a19a18eab5f843fde34c3b08"
+BC_CLIENT_ID: ‘85uty8otm3dqfpecuectykg6i9867f6’
 APP_URL: "bc-product-review.herokuapp.com"
 
 
 
 
+          
